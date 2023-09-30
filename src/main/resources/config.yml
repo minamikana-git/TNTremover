@@ -1,0 +1,8 @@
+# ワールドごとのTNT制限
+worlds:
+  world: true
+  world_nether: false
+  world_the_end: false
+  #下に追加することで、増やすことができます。
+  #デフォルトでは、基本の三つがfalseになっていますが、他にワールドがある場合は
+  #ワールド名:false or true で記述してください。
